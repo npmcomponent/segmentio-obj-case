@@ -1,5 +1,5 @@
 
-var Case = require('case');
+var Case = require('ianstormtaylor-case');
 
 
 var cases = [

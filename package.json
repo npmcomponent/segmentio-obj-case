@@ -1,28 +1,11 @@
 {
-  "name": "obj-case",
-  "version": "0.0.6",
+  "name": "segmentio-obj-case",
   "description": "Work with objects of different cased keys",
+  "version": "0.0.5",
+  "keywords": [],
   "main": "index.js",
-  "scripts": {
-    "test": "npm test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/segmentio/obj-case.git"
-  },
-  "keywords": [
-    "object",
-    "case",
-    "casing",
-    "camelcase"
-  ],
-  "author": "Segmentio",
-  "license": "MIT",
   "dependencies": {
-    "case": "ianstormtaylor/case#0.1.1"
+    "ianstormtaylor-case": "git://github.com/npmcomponent/ianstormtaylor-case.git"
   },
-  "devDependencies": {
-    "mocha": "~1.12.0",
-    "expect.js": "*"
-  }
+  "license": "MIT"
 }
